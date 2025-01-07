@@ -154,3 +154,9 @@ a {
     display: flex;
   }
 }
+
+@media (max-height: 793px) {
+  .menu {
+    height: 80%;
+  }
+}
