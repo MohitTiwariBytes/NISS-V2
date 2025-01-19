@@ -1,0 +1,145 @@
+.main-second-section {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #d7d7d7;
+}
+
+.secondSection {
+  width: 100%;
+  height: 100%;
+}
+
+.asf-headline {
+  font-family: "Satoshi", sans-serif;
+  font-size: 25px;
+  width: 100%;
+  font-weight: 700;
+  margin-top: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+#text-sdsd {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+#text-sdsd span {
+  position: relative;
+}
+
+.asf span {
+  position: relative;
+}
+
+.safa {
+  display: flex;
+  justify-content: center;
+}
+
+.bento {
+  width: 1300px;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 120px 0px;
+}
+
+.bento-1 {
+  width: 39%;
+  height: 300px;
+  background-color: #f2f2f2;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 23px;
+  position: relative;
+}
+
+.star-side {
+  position: absolute;
+  right: 25px;
+  top: 45px !important;
+}
+
+.lines-xca {
+  transform: rotate(23deg);
+  display: inline-flex;
+  position: absolute;
+  width: 140%;
+  top: 43px !important;
+  flex-wrap: wrap;
+  gap: 13px;
+}
+
+.line {
+  height: 4px;
+  width: 100%;
+  background-color: black;
+}
+
+.star-side img {
+  height: 36px;
+}
+
+.title-num {
+  font-family: "Zen Kaku Gothic New", serif;
+  font-size: 33px;
+  padding: 15px 25px;
+}
+.bento-2 {
+  width: 59%;
+  height: 300px;
+  background-color: #f2f2f2;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 23px;
+  position: relative;
+}
+.bento-3 {
+  width: 100%;
+  height: 300px;
+  background-color: #f2f2f2;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 23px;
+  position: relative;
+  margin-top: 2%;
+}
+
+.bento-1,
+.bento-2,
+.bento-3 {
+  overflow: hidden;
+}
+
+.desc-sac {
+  padding: 15px 25px;
+  font-family: "Satoshi";
+  font-weight: 500;
+}
+
+@media (max-width: 552px) {
+  .asf-headline {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 992px) {
+  .bento-1,
+  .bento-2,
+  .bento-3 {
+    overflow: hidden;
+    width: 100%;
+    display: inline;
+    height: auto;
+  }
+
+  .bento-3 {
+    margin-top: 0px;
+  }
+
+  .bento {
+    gap: 23px;
+  }
+}

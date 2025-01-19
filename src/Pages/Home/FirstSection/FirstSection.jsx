@@ -143,60 +143,61 @@ export default function FirstSection() {
                         >
                             <h1>- INSPIRES</h1>
                         </h1>
-                        <div className="smallTextSide">
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>We</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>are</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>a</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>website</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>design</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>agency</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>based</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>in</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>India,</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>known</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>for</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>creating</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>exceptional</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>websites</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>that</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>stands</span>
-                            </span>
-                            <span id="asdf" style={{ overflow: "hidden" }}>
-                                <span>out.</span>
-                            </span>
-                        </div>
+
                     </h1>
+                    <div className="smallTextSide">
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>We</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>are</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>a</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>website</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>design</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>agency</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>based</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>in</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>India,</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>known</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>for</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>creating</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>exceptional</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>websites</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>that</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>stands</span>
+                        </span>
+                        <span id="asdf" style={{ overflow: "hidden" }}>
+                            <span>out.</span>
+                        </span>
+                    </div>
                 </div>
             </div>
         </div>

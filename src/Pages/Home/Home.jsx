@@ -5,6 +5,7 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 import "./Home.css"
 import Navbar from "../../Components/Navbar/Navbar";
 import FirstSection from "./FirstSection/FirstSection";
+import SecondSection from "./SecondSection/SecondSection";
 
 gsap.registerPlugin(ScrollTrigger)
 
@@ -16,6 +17,10 @@ export default function Home() {
                 <Navbar></Navbar>
                 <div className="homePage">
                     <FirstSection></FirstSection>
+                    <SecondSection></SecondSection>
+                    <div className="seasid">
+
+                    </div>
                 </div>
             </div>
         </ReactLenis>
