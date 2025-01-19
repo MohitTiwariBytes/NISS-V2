@@ -42,11 +42,7 @@ export default function SecondSection() {
             top: "0px",
             ease: "power2.out",
             duration: 0.4,
-            stagger: {
-                amount: 0.3,
-                from: "start",
-                grid: "auto",
-            },
+            stagger: 0.3,
             scrollTrigger: {
                 trigger: ".main-second-section",
                 start: "top 40%",
