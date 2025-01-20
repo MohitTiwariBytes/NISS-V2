@@ -100,16 +100,9 @@ export default function FirstSection() {
 
         scaleAnimation(); // Trigger the animation on load
 
-        // Add a resize event listener to re-trigger the animation when the window size changes
-        const handleResize = () => {
-            scaleAnimation();
-        };
-        window.addEventListener("resize", handleResize);
-
         // Clean up on component unmount
         return () => {
             ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
-            window.removeEventListener("resize", handleResize);
         };
     }, []);
 
